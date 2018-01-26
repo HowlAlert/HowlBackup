@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/josephdilascio/workspace/ReactNative/prod/HowlAlertAndroid/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/josephdilascio/workspace/ReactNative/prod/HowlAlertAndroid/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/josephdilascio/HowlAlertAndroid/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/josephdilascio/HowlAlertAndroid/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
